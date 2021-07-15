@@ -1,0 +1,13 @@
+Computer model;MacBookPro16,1
+Serial number;VVVVV
+Procesor;Intel(R) Core(TM) i7-9750H
+Memory;32GB
+Disk;APPLE SSD AP0512N 500.3GB
+System Version;MacOS Big Sur (11.4)
+Computer name;Test4
+Username;u.test4
+Applications;
+ /Users/m.kantor/Library/Printers/XEROX COLOR P2.app
+ /Users/m.kantor/Library/Printers/XEROX COLOR P1.app
+ /Users/m.kantor/Library/Containers/com.aone.keka/Data/Library/Application Support/Keka/KekaExternalHelper.app
+ /Applications/MacPass.app

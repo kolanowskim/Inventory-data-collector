@@ -1,0 +1,18 @@
+Computer model;MacBookPro17,1
+Serial number;ZZZZZZ
+Procesor;Apple M1
+Memory;16GB
+Disk;APPLE SSD AP0512Q 500.3GB
+System Version;MacOS Big Sur (11.3.1)
+Computer name;Test3
+Username;u.test3
+Applications;
+ /Applications/Microsoft Remote Desktop.app
+ /Applications/MagicConnect.app
+ /Users/m.smolski/Applications/Spotify.app
+ /Users/m.smolski/Downloads/Install Spotify.app
+ /Applications/MacPass.app
+ /Users/m.smolski/Library/Application Scripts/com.microsoft.openxml.excel.app
+ /Users/m.smolski/Library/Printers/Xerox Color P1.app
+ /Users/m.smolski/Library/Printers/Konica Minolta C220.app
+ /Users/m.smolski/Library/Printers/Xerox Color P2.app

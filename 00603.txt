@@ -1,0 +1,52 @@
+Computer model;MacBookPro16,3
+Serial number;XXXXXX
+Procesor;Intel(R) Core(TM) i5-8257U
+Memory;16GB
+Disk;APPLE SSD AP0256N 251.0GB
+System Version;MacOS Big Sur (11.2.3)
+Computer name;00603
+Username;u.test
+Applications;
+ /Applications/Docker.app
+ /Applications/IntelliJ IDEA.app
+ /Applications/SteelSeries Engine 3/SteelSeries Engine 3.app
+ /Applications/Visual Studio Code.app
+ /Applications/MacPass.app
+ /Applications/SteelSeries Engine 3/SteelSeries Engine 3 Uninstaller.app
+ /Applications/IntelliJ IDEA CE.app
+ /Applications/Postman.app
+ /Applications/DBeaver.app
+ /Applications/FileZilla.app
+ /Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8/Resources/Python.app
+ /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/WebKit.framework/Versions/A/Frameworks/WebKitLegacy.framework/Versions/A/WebKitPluginHost.app
+ /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk/System/Library/Frameworks/WebKit.framework/Versions/A/Frameworks/WebKitLegacy.framework/Versions/A/WebKitPluginHost.app
+ /Users/l.osinski/Library/Containers/com.aone.keka/Data/Library/Application Support/Keka/KekaExternalHelper.app
+Brew;
+bdw-gc
+c-ares
+cask
+dnsmasq
+emacs
+gettext
+git
+gmp
+gnutls
+guile
+jansson
+jemalloc
+libev
+libevent
+libffi
+libidn2
+libtasn1
+libtool
+libunistring
+m4
+nettle
+nghttp2
+openssl@1.1
+p11-kit
+pcre2
+pkg-config
+readline
+unbound

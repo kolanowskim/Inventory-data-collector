@@ -2,7 +2,7 @@
 use Excel::Writer::XLSX;
 
 #All txt files
-my @files = <*.txt>;
+my @files = <./Data/*.txt>;
 #Start writing data from first row
 my $row = 1;
 

@@ -20,7 +20,7 @@ Applications;
  /Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8/Resources/Python.app
  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/WebKit.framework/Versions/A/Frameworks/WebKitLegacy.framework/Versions/A/WebKitPluginHost.app
  /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk/System/Library/Frameworks/WebKit.framework/Versions/A/Frameworks/WebKitLegacy.framework/Versions/A/WebKitPluginHost.app
- /Users/l.osinski/Library/Containers/com.aone.keka/Data/Library/Application Support/Keka/KekaExternalHelper.app
+ /Users/u.test/Library/Containers/com.aone.keka/Data/Library/Application Support/Keka/KekaExternalHelper.app
 Brew;
 bdw-gc
 c-ares

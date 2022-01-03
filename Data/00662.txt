@@ -7,7 +7,7 @@ System Version;MacOS Big Sur (11.4)
 Computer name;Test4
 Username;u.test4
 Applications;
- /Users/m.kantor/Library/Printers/XEROX COLOR P2.app
- /Users/m.kantor/Library/Printers/XEROX COLOR P1.app
- /Users/m.kantor/Library/Containers/com.aone.keka/Data/Library/Application Support/Keka/KekaExternalHelper.app
+ /Users/u.test4/Library/Printers/XEROX COLOR P2.app
+ /Users/u.test4/Library/Printers/XEROX COLOR P1.app
+ /Users/u.test4/Library/Containers/com.aone.keka/Data/Library/Application Support/Keka/KekaExternalHelper.app
  /Applications/MacPass.app

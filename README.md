@@ -1,6 +1,6 @@
 # Inventory-data-collector
 
-I've created this script for inventory in my company. I was receiving data from each computer like those in "Data" directory. I was responsible for collect all data from all computers in a specific format to one excel.
+I've created this script for inventory in my company. I was receiving data from each computer like these in "Data" directory. I was responsible for collect all data from all computers in a specific format to one excel.
 
   1. To run this script - dataCollector.pl you need to insall Excel::Writer::XLSX library.
   2. Then you can ran it by terminal. By command - perl dataCollector.pl (You must indicate a location or be in the same location).

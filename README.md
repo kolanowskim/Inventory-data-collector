@@ -10,6 +10,7 @@
 4. Data is being saved into perl.xlsx
 
 ## Usage
+- You must put all .txt files to "Data" directory. Script will collect all files from there.
 
 An example of the data the script works on:<br/>
 Computer model;MacBookPro16,3<br/>
